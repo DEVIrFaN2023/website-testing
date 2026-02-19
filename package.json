@@ -1,0 +1,1 @@
+{\n  "name": "website-testing",\n  "version": "1.0.0",\n  "dependencies": {\n    "@shopify/theme": "^1.0.0"\n  }\n}
