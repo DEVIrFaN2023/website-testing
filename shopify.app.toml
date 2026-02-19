@@ -1,0 +1,6 @@
+# Shopify App Configuration
+
+app_name = "My Shopify App"
+app_id = "your_app_id"
+api_key = "your_api_key"
+api_secret = "your_api_secret"
