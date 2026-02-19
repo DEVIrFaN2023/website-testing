@@ -1,0 +1,15 @@
+{
+  "theme": "default",
+  "colors": {
+    "primary": "#3498db",
+    "secondary": "#2ecc71"
+  },
+  "fonts": {
+    "header": "Arial, sans-serif",
+    "body": "Helvetica, sans-serif"
+  },
+  "layout": {
+    "header": true,
+    "footer": true
+  }
+}
